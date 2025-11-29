@@ -1,5 +1,7 @@
 # Flappy Bird with DQN Reinforcement Learning
 
+Testing out Google's new Antigravity coding tool!
+
 A Flappy Bird game implementation with Deep Q-Network (DQN) reinforcement learning. The game logic and AI training are implemented in **Python**, while the visualization uses a **Java Swing GUI**. The two components communicate via socket-based JSON protocol.
 
 ## Architecture
